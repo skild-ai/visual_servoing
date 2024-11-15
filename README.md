@@ -5,5 +5,7 @@ Commands to run for servoing independently
 4. python3 end_visual_servoing.py
 
 Notes: https://docs.google.com/document/d/149MpQcg0I83XUtM3vTYfUpEGR6bURg2INi_Xe0oH81w/edit?usp=sharing
+
 Fintune runs details (models in poorvi@skild7.local:/home/poorvi/h1_detection/yolov10/runs/detect): 
+
 https://docs.google.com/spreadsheets/d/1gc1beRZHL4GFyTsNoTo6j-ubfdWYQOYovCdqTd9dhv4/edit?usp=sharing
